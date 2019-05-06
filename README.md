@@ -13,7 +13,7 @@ python parallel.py train 8
 
 note:**train** is the name of the file, **8** is the number of workers
 
-##Reference
+## Reference
 
 https://github.com/ycjuan/kaggle-2014-criteo
 
