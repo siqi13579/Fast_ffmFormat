@@ -1,5 +1,5 @@
 # Fast_ffmFormat
-A tool for quickly generating ffm format
+A tool for quickly generating libffm format
 
 ## Code
 
